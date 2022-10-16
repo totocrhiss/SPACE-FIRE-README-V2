@@ -6,15 +6,13 @@
 
 ## **Thème : Spatial.**
 
-## **Auteur : PAZMANY christian.[](https://firetoto.netlify.app)**
+## **Auteur : PAZMANY christian.**
 
-![](https://github.com/totocrhiss/space-fire-V2/blob/main/logo.png)[ ](https://firetoto.netlify.app)
-
-## [**JOUER A SPACE-FIRE**](https://firetoto.netlify.app)
+[![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/spaceshipHref.svg)](https://firetoto.netlify.app)
 
 ---
 
-#### **Après avoir fini la partie ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/front-EndTxt.svg) de l'école ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/studiTxt.svg) et avant de commencer la partie ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/back-EndTxt.svg),**
+#### **Après avoir fini la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/front-EndTxt.svg) de l'école ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/studiTxt.svg) et avant de commencer la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/back-EndTxt.svg),**
 
 #### **j'ai réalisé un jeu très dynamique en Javascript pur et sans librairie.**
 
@@ -50,7 +48,7 @@
 
 ## **Programmation en HTML5, CSS3, JAVASCRIPT.**
 
-#### **1. Il n'y a pas de MEDIAS QUERIES pour le responsive design tout est programmé en Javascript.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n1.svg) Il n'y a pas de MEDIAS QUERIES pour le responsive design tout est programmé en Javascript.**
 
 #### **J'ai pour la première fois réalisé tous les éléments du jeu avec une échelle et un ratio,**
 
@@ -76,13 +74,13 @@
 
 #### **Javascript et c'est possibilité pour maîtrisé un environnement de jeu dynamique.**
 
-#### **2. Le décor du fond d'écran.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n2.svg) Le décor du fond d'écran.**
 
 #### **est composé d'un background de l'espace et d'un background avec,**
 
 #### **la terre et la lune en dynamique responsive design en CSS3.**
 
-#### **3. Les explosions.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n3.svg) Les explosions.**
 
 #### **3.1. Sont créés en javascript en responsive design toujours combiné avec l'échelle et le ratio.**
 
@@ -100,7 +98,7 @@
 
 #### **(Vous pouvez tester le dynamisme avec la touche F12 et modifier la dimension de la hauteur en cours de jeu)**
 
-#### **4. Mes créations vectorielles avec le logiciel Inkscape.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n4.svg) Mes créations vectorielles avec le logiciel Inkscape.**
 
 #### **4.1. Les vaisseaux spatiaux.**
 
@@ -120,7 +118,7 @@
 
 #### **correcte, mais c'est un choix personnel après j'ai toujours les SVG que j'ai créés en ma possession bien sûr.**
 
-#### **5. La structure et l'organisation.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n5.svg) La structure et l'organisation.**
 
 #### **5.1. Les fichiers Javascript son partitionné par fonction et élément.**
 
@@ -148,7 +146,7 @@
 
 #### **(Il y a beaucoup de paramètres possibles dans un objet Javascript config, il peut y en avoir davantage mais ce jeu est juste un exemple concret).**
 
-#### **6. Les images libres de droits.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n6.svg) Les images libres de droits.**
 
 #### **6.1. l'image de l'espace est libre de droits ressource [pixabay.com](https://pixabay.com/fr/).**
 
@@ -156,7 +154,7 @@
 
 #### **6.3. l'image de la lune que j'ai détouré avec Inkscape est libre de droits ressource [pixabay.com.](https://pixabay.com/fr/)**
 
-#### **7. À savoir sur mes compétences.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n7.svg) À savoir sur mes compétences.**
 
 #### **7.1. La création des vectoriels et le traitement d'images peut être réalisé avec Corel draw,**
 
@@ -164,7 +162,7 @@
 
 #### **7.2. J'ai déjà dans le passé conçu un jeu avec un objet créé en 3 dimensions avec le logiciel**
 
-#### **open source ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/blenderTxt.svg) et la bibliothèque ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/threeJsTxt.svg) combiné avec ![](https://github.com/totocrhiss/space-fire-V2/blob/main/text_svg/gsapTxt.svg)**
+#### **open source ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/blenderTxt.svg) et la bibliothèque ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/threeJsTxt.svg) combiné avec ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/gsapTxt.svg)**
 
 #### **pour les manipulations des objets en 3 dimensions et je suis persuadé de pouvoir réaliser le même jeu space-fire**
 
@@ -184,7 +182,7 @@
 
 #### **7.6. Pour le diplôme développeur web full stack.**
 
-#### **8. Pour accéder au programme.**
+#### **![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/n8.svg) Pour accéder au programme.**
 
 #### **8.1. Les employeurs et les ressources humaines auront accès au téléchargement sûr Github.**
 
