@@ -1,4 +1,4 @@
-﻿## **Centre de formation (STUDI) FRANCE.**
+## **Centre de formation (STUDI) FRANCE.**
 
 ## **Diplôme développeur web full stack.**
 
