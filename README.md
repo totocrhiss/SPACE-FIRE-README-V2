@@ -12,13 +12,13 @@
 
 ---
 
-#### **Après avoir fini la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/front-EndTxt.svg) de l'école ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/studiTxt.svg) et avant de commencer la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/back-EndTxt.svg),**
+#### **Après avoir terminé la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/front-EndTxt.svg) de l'école ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/studiTxt.svg) et avant de commencer la partie ![](https://github.com/totocrhiss/SPACE-FIRE-README-V2/blob/main/text_svg/back-EndTxt.svg),**
 
 #### **j'ai réalisé un jeu très dynamique en Javascript pur et sans librairie.**
 
-#### **je me suis proposer un défi avec Javascript en concevant un jeu avec des vaisseaux spatiaux,**
+#### **Je me suis mis au défi avec Javascript en concevant un jeu avec des vaisseaux spatiaux,**
 
-#### **je me suis donner des impératifs pour réaliser le jeu.**
+#### **en me donnant des impératifs pour réaliser ce jeu.**
 
 #### **1. En Javascript.**
 
@@ -28,7 +28,7 @@
 
 #### **4. Avec des collisions.**
 
-#### **5. Tous les effets sont programmés pas de gif intégrer, de la programmation pure.**
+#### **5. Tous les effets sont programmés pas de gif intégré, de la programmation pure.**
 
 #### **6. Pas de canevas tous en Css Javascript.**
 
@@ -52,7 +52,7 @@
 
 #### **J'ai pour la première fois réalisé tous les éléments du jeu avec une échelle et un ratio,**
 
-#### **sa veux dir que tous les éléments sont dynamiques.**
+#### **cela veut dire que tous les éléments sont dynamiques.**
 
 #### **1.1. La vitesse des vaisseaux spatiaux.**
 
@@ -122,7 +122,7 @@
 
 #### **5.1. Les fichiers Javascript son partitionné par fonction et élément.**
 
-#### **5.2. Il y a un fichier config.js dans config, pour donner accès à quiconque doi modifier des paramètres.**
+#### **5.2. Il y a un fichier config.js dans config, pour donner accès à quiconque doit modifier des paramètres.**
 
 #### **5.2.1. Le nombre de vaisseaux ennemis.**
 
